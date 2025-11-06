@@ -28,7 +28,6 @@ Um sistema simples de gestão de Recursos Humanos (RH) via linha de comandos, de
 
 Para compilar o projeto, necessita de um compilador C++ (como o g++). Navegue até à pasta raiz do projeto e execute o seguinte comando na powershell do VS Code:
 
-cd "D:\atec\UC00607\Sistema RH\Mini_Sistema_RH\src"
 g++ main.cpp colaborador.cpp calendario.cpp io.cpp -o main
 .\main
 
